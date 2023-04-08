@@ -1,2 +1,2 @@
 import streamit
-streamit.title('First Streamit Program'
+streamit.title('First Streamit Program')
