@@ -1,1 +1,2 @@
-print ('Hello World !!')
+import streamit
+streamit.title('First Streamit Program'
