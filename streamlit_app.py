@@ -74,3 +74,5 @@ my_data_rows = my_cur.fetchall()
 streamlit.text("The fruit load list contains")
 # streamlit.text(my_data_row)
 streamlit.text(my_data_rows)
+
+my_cur.execute("insert into fruit_load_list_values ('from streamlit')")
